@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+body{
+    background-color: chocolate;
+}
+.hide{
+    display:none;  
+}
+.msg{
+   text-align: center;
+   color: white;
+   margin-top: 200px;
+   font-size: 50px;
+}
+#nGame{
+   margin-left: 43%;
+   width: 200px;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 1px solid chocolate;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+.heading{
+    margin-left: 39%;
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+}
+.container{
+    margin-left: 27%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 160px;
+    height: 160px;
+    border: 1px solid chocolate;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 150px;
+}
+#reset{
+    width: 120px;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 1px solid chocolate;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+   }
+   .reset{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
